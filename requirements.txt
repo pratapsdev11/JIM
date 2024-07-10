@@ -1,0 +1,6 @@
+Flask
+moviepy
+opencv-python
+pillow
+ultralytics
+Werkzeug
